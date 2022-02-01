@@ -5,7 +5,7 @@ public class Hello{
         if(n==2)System.out.println("server");
         //System.out.println("server");
         System.out.println("performed push1");
-        System.out.println("Deeksha");
+        System.out.println("my name");
         
         //git in server
     }
