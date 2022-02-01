@@ -6,7 +6,7 @@ public class Hello{
         //System.out.println("server");
         System.out.println("performed push1");
         System.out.println("my name");
-        
+        //git pull
         //git in server
     }
 }
