@@ -4,7 +4,7 @@ public class Hello{
         int n=0;
         if(n==2)System.out.println("server");
         //System.out.println("server");
-        System.out.println("mmk 2");
+        System.out.println("performed push");
         
         
         //git in server
